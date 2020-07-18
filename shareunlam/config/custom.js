@@ -33,9 +33,9 @@ module.exports.custom = {
   * > app when it's first generated.                                        *
   *                                                                         *
   **************************************************************************/
-  platformCopyrightYear: '2019',
-  platformName:  'NEW_APP_NAME',
-  platformCompanyName: 'NEW_APP_COMPANY_NAME',
+  platformCopyrightYear: '2020',
+  platformName:  'Share Apuntes',
+  platformCompanyName: 'PairProgrammers',
   platformCompanyAboutHref: 'https://sailsjs.com/about',
   privacyPolicyUpdatedAt: 'DATE_PRIVACY_POLICY_LAST_UPDATED',
   termsOfServiceUpdatedAt: 'DATE_TERMS_OF_SERVICE_LAST_UPDATED',
@@ -75,7 +75,7 @@ module.exports.custom = {
 
   // The sender that all outgoing emails will appear to come from.
   fromEmailAddress: 'noreply@example.com',
-  fromName: 'The NEW_APP_NAME Team',
+  fromName: 'Team ShareApuntes',
 
   // Email address for receiving support messages & other correspondences.
   // > If you're using the default privacy policy, this will be referenced
